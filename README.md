@@ -3,4 +3,5 @@ Le projet est de créer un 2048 un jeu qui consiste à atteindre le nombre 2048 
 
 Importé le module pygame(pour l'affichage du jeu ) et math(pour calculer les case du jeu)
 
-Attributs :
+Fct : lignes_cases ; colonnes_cases ; position_cases ; valeur_cases
+
