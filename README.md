@@ -1,4 +1,4 @@
-# projet-nsi-2048
+# projet-nsi-juste prix
 Le projet est de créer un juste prix
 L'utilisateur devra deviné une valeur comprise entre deux autre valeur qu'il aura donné. Ce projet va notament utiliser le module random et d'autre details que j'expliquerais comme le debut du programme.
 Module utiliser Random et explications des boucles utiliser.
